@@ -108,7 +108,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
     return Column(
       children: [
         Text(
-          'Weather Forecast',
+          '7-Days Forecasts',
           style: TextStyle(
             color: Colors.white,
             fontSize: 20,
